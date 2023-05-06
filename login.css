@@ -61,7 +61,7 @@ button:hover{
     border-radius: 0px 15px;   
 }
 
-@media (min-width:250px) {
+@media (max-width:250px) {
     *{
         font-size: 4px;
     }
